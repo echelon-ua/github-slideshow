@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**WOW** it's *finnaly* done! Check my nowadays work here [Viessmann](http://viessmann.ua).
 Use the left arrow to go back!
